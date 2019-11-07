@@ -1,0 +1,9 @@
+C:\Projects\.net-Sql-Server-Authentication\SQLAuthentication\bin\Debug\netcoreapp2.1\SQLAuthentication.dll.config
+C:\Projects\.net-Sql-Server-Authentication\SQLAuthentication\bin\Debug\netcoreapp2.1\SQLAuthentication.deps.json
+C:\Projects\.net-Sql-Server-Authentication\SQLAuthentication\bin\Debug\netcoreapp2.1\SQLAuthentication.runtimeconfig.json
+C:\Projects\.net-Sql-Server-Authentication\SQLAuthentication\bin\Debug\netcoreapp2.1\SQLAuthentication.runtimeconfig.dev.json
+C:\Projects\.net-Sql-Server-Authentication\SQLAuthentication\bin\Debug\netcoreapp2.1\SQLAuthentication.dll
+C:\Projects\.net-Sql-Server-Authentication\SQLAuthentication\obj\Debug\netcoreapp2.1\SQLAuthentication.csprojAssemblyReference.cache
+C:\Projects\.net-Sql-Server-Authentication\SQLAuthentication\obj\Debug\netcoreapp2.1\SQLAuthentication.csproj.CoreCompileInputs.cache
+C:\Projects\.net-Sql-Server-Authentication\SQLAuthentication\obj\Debug\netcoreapp2.1\SQLAuthentication.AssemblyInfoInputs.cache
+C:\Projects\.net-Sql-Server-Authentication\SQLAuthentication\obj\Debug\netcoreapp2.1\SQLAuthentication.AssemblyInfo.cs
